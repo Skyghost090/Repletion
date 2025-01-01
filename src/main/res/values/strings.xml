@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Repletion</string>
+    <string name="about">About the app:\nReprise 1.0.0 Github Autor: Skyghost090\n\nThe speaker desires to understand the true essence of photography, to identify what makes it fundamentally distinct from all other images.</string>
+    <string name="saturationHeader">If you increase the saturation too much,\n the colors will “go wrong” that is, random\npixels start to change color in a bizarre way.\n\nSaturation Level:</string>
+</resources>
